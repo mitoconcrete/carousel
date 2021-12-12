@@ -106,3 +106,4 @@ const mouseMoveEventListener = (e) => {
 elScrollContainer.addEventListener("mousedown", mouseDownEventListener);
 elScrollContainer.addEventListener("mouseup", mouseUpEventListener);
 elScrollContainer.addEventListener("mousemove", mouseMoveEventListener);
+elScrollContainer.addEventListener("mouseleave", mouseUpEventListener);
