@@ -48,3 +48,15 @@ body,
 .item:nth-child(3) {
   background-color: purple;
 }
+
+.item:nth-child(4) {
+  background-color: yellow;
+}
+
+.item:nth-child(5) {
+  background-color: yellowgreen;
+}
+
+.item:nth-child(6) {
+  background-color: blue;
+}
